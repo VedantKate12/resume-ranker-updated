@@ -38,7 +38,7 @@
 
 1. **Clone the repo**
    
-   git clone https://github.com/your-username/ai-resume-ranker.git
+   git clone (https://github.com/VedantKate12/resume-ranker-updated.git)
    cd ai-resume-ranker
    
  2.**Create a virtual environment**
