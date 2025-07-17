@@ -27,7 +27,7 @@
 
 ## 🧠 Tech Stack
 
-- **Frontend**: [Streamlit](https://streamlit.io/)
+- **Frontend**: [Streamlit](http://localhost:8506/)
 - **Backend Logic**: `PyPDF2`, `re`, `pandas`, `openpyxl`
 - **Excel Export**: `BytesIO`, `pandas`
 - **Language**: Python 3.9+
